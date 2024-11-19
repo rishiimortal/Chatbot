@@ -1,0 +1,87 @@
+{
+    "nutrients": [
+      {
+        "name": "Protein",
+        "description": "Essential for building and repairing tissues, and is a key component of muscles, skin, and enzymes.",
+        "food_sources": [
+          "Chicken breast",
+          "Turkey",
+          "Fish",
+          "Eggs",
+          "Dairy products (milk, yogurt, cheese)",
+          "Legumes (beans, lentils)",
+          "Nuts and seeds",
+          "Tofu and tempeh"
+        ]
+      },
+      {
+        "name": "Carbohydrates",
+        "description": "The body's main source of energy, important for brain function and physical activity.",
+        "food_sources": [
+          "Whole grains (brown rice, quinoa, oats)",
+          "Fruits (bananas, apples, berries)",
+          "Vegetables (potatoes, corn, peas)",
+          "Legumes (beans, lentils)",
+          "Pasta and bread (preferably whole grain)",
+          "Starchy vegetables (sweet potatoes, squash)"
+        ]
+      },
+      {
+        "name": "Fats",
+        "description": "Important for hormone production, nutrient absorption, and providing energy.",
+        "food_sources": [
+          "Avocados",
+          "Nuts and seeds",
+          "Olive oil",
+          "Fatty fish (salmon, mackerel)",
+          "Coconut oil",
+          "Butter and ghee",
+          "Cheese"
+        ]
+      },
+      {
+        "name": "Vitamins",
+        "description": "Organic compounds that are essential for various bodily functions.",
+        "food_sources": [
+          "Fruits (citrus fruits for Vitamin C, bananas for Vitamin B6)",
+          "Vegetables (leafy greens for Vitamin K, carrots for Vitamin A)",
+          "Dairy products (for Vitamin D)",
+          "Nuts and seeds (for Vitamin E)",
+          "Whole grains (for B vitamins)"
+        ]
+      },
+      {
+        "name": "Minerals",
+        "description": "Inorganic elements that play a role in various bodily functions.",
+        "food_sources": [
+          "Dairy products (calcium)",
+          "Meat and fish (iron, zinc)",
+          "Fruits and vegetables (potassium, magnesium)",
+          "Nuts and seeds (magnesium, selenium)",
+          "Whole grains (iron, magnesium)"
+        ]
+      },
+      {
+        "name": "Fiber",
+        "description": "A type of carbohydrate that aids in digestion and helps maintain a healthy gut.",
+        "food_sources": [
+          "Fruits (apples, pears, berries)",
+          "Vegetables (broccoli, carrots, Brussels sprouts)",
+          "Whole grains (oats, brown rice, whole wheat bread)",
+          "Legumes (beans, lentils, chickpeas)",
+          "Nuts and seeds"
+        ]
+      },
+      {
+        "name": "Water",
+        "description": "Essential for hydration, temperature regulation, and overall bodily functions.",
+        "food_sources": [
+          "Water",
+          "Fruits (watermelon, oranges)",
+          "Vegetables (cucumbers, lettuce)",
+          "Soups and broths",
+          "Herbal teas"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+  "exercises": [
+    {
+      "name": "Bench Press",
+      "muscle_group": "chest",
+      "description": "A compound exercise that targets the chest, shoulders, and triceps."
+    },
+    {
+      "name": "Incline Dumbbell Press",
+      "muscle_group": "chest",
+      "description": "A variation of the bench press that emphasizes the upper chest."
+    },
+    {
+      "name": "Push-Ups",
+      "muscle_group": "chest",
+      "description": "A bodyweight exercise that works the chest, shoulders, and triceps."
+    },
+    {
+      "name": "Chest Fly",
+      "muscle_group": "chest",
+      "description": "An isolation exercise that targets the chest muscles."
+    },
+    {
+      "name": "Cable Crossover",
+      "muscle_group": "chest",
+      "description": "A cable exercise that targets the chest from different angles."
+    },
+    {
+      "name": "Pull-Ups",
+      "muscle_group": "back",
+      "description": "A bodyweight exercise that targets the upper back and biceps."
+    },
+    {
+      "name": "Bent Over Row",
+      "muscle_group": "back",
+      "description": "A compound exercise that targets the back, biceps, and shoulders."
+    },
+    {
+      "name": "Lat Pulldown",
+      "muscle_group": "back",
+      "description": "A cable exercise that targets the latissimus dorsi muscles."
+    },
+    {
+      "name": "Deadlift",
+      "muscle_group": "back",
+      "description": "A compound exercise that works the entire posterior chain."
+    },
+    {
+      "name": "Seated Row",
+      "muscle_group": "back",
+      "description": "A cable exercise that targets the middle back and biceps."
+    },
+    {
+      "name": "Squats",
+      "muscle_group": "legs",
+      "description": "A compound exercise that targets the quadriceps, hamstrings, and glutes."
+    },
+    {
+      "name": "Leg Press",
+      "muscle_group": "legs",
+      "description": "A machine exercise that targets the quadriceps and glutes."
+    },
+    {
+      "name": "Lunges",
+      "muscle_group": "legs",
+      "description": "A bodyweight or weighted exercise that targets the legs and glutes."
+    },
+    {
+      "name": "Leg Curl",
+      "muscle_group": "legs",
+      "description": "An isolation exercise that targets the hamstrings."
+    },
+    {
+      "name": "Calf Raises",
+      "muscle_group": "legs",
+      "description": "An exercise that targets the calf muscles."
+    },
+    {
+      "name": "Shoulder Press",
+      "muscle_group": "shoulders",
+      "description": "A compound exercise that targets the shoulders and triceps."
+    },
+    {
+      "name": "Lateral Raises",
+      "muscle_group": "shoulders",
+      "description": "An isolation exercise that targets the lateral deltoids."
+    },
+    {
+      "name": "Front Raises",
+      "muscle_group": "shoulders",
+      "description": "An isolation exercise that targets the front deltoids."
+    },
+    {
+      "name": "Shrugs",
+      "muscle_group": "shoulders",
+      "description": "An exercise that targets the trapezius muscles."
+    },
+    {
+      "name": "Upright Row",
+      "muscle_group": "shoulders",
+      "description": "A compound exercise that targets the shoulders and traps."
+    },
+    {
+      "name": "Bicep Curls",
+      "muscle_group": "arms",
+      "description": "An isolation exercise that targets the biceps."
+    },
+    {
+      "name": "Tricep Dips",
+      "muscle_group": "arms",
+      "description": "A bodyweight exercise that targets the triceps."
+    },
+    {
+      "name": "Sk ull Crushers",
+      "muscle_group": "arms",
+      "description": "An isolation exercise that targets the triceps."
+    },
+    {
+      "name": "Hammer Curls",
+      "muscle_group": "arms",
+      "description": "A variation of bicep curls that targets the brachialis."
+    }
+  ]
+}

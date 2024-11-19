@@ -1,0 +1,89 @@
+{
+    "intents": [
+      {
+        "intent": "greet",
+        "examples": [
+          "Hello",
+          "Hi",
+          "Hey",
+          "Good morning",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What can I help you with?",
+          "Hey! What are you looking for?"
+        ]
+      },
+      {
+        "intent": "goodbye",
+        "examples": [
+          "Goodbye",
+          "See you later",
+          "Bye",
+          "Take care"
+        ],
+        "responses": [
+          "Goodbye! Have a great day!",
+          "See you later! Stay healthy!",
+          "Bye! Don't hesitate to come back if you have more questions."
+        ]
+      },
+      {
+        "intent": "exercise_recommendation",
+        "examples": [
+          "Can you suggest an exercise for me?",
+          "What exercise should I do for my legs?",
+          "Recommend a workout for my arms",
+          "I need an exercise for my back"
+        ],
+        "responses": [
+          "Sure! What muscle group are you interested in?",
+          "I can help with that! Which area do you want to focus on?",
+          "Let me know your target muscle group, and I'll suggest an exercise."
+        ]
+      },
+      {
+        "intent": "nutrition_advice",
+        "examples": [
+          "What should I eat for protein?",
+          "Give me some healthy food options",
+          "What are good sources of carbohydrates?",
+          "Can you recommend a diet plan?"
+        ],
+        "responses": [
+          "I can help with that! What macronutrient are you interested in?",
+          "Sure! Are you looking for proteins, fats, or carbohydrates?",
+          "Let me know your dietary preferences, and I'll suggest some foods."
+        ]
+      },
+      {
+        "intent": "thank_you",
+        "examples": [
+          "Thank you",
+          "Thanks for your help",
+          "I appreciate it",
+          "Thanks a lot"
+        ],
+        "responses": [
+          "You're welcome! If you have any more questions, feel free to ask.",
+          "No problem! I'm here to help.",
+          "Glad I could assist you!"
+        ]
+      },
+      {
+        "intent": "help",
+        "examples": [
+          "Can you help me?",
+          "I need assistance",
+          "What can you do?",
+          "Help me with my workout"
+        ],
+        "responses": [
+          "Of course! I can help with exercise recommendations, nutrition advice, and more.",
+          "I'm here to assist you with fitness and nutrition questions.",
+          "Let me know what you need help with!"
+        ]
+      }
+    ]
+  }
